@@ -47,6 +47,6 @@ const productSchema = new mongoose.Schema({
   detailedImages: [detailedImageSchema],
   variants: [variantSchema],
   createdAt: { type: Date, default: Date.now }
-}, { timestamps: true });
+}, { timestamps: true, suppressReservedKeysWarning: true });
 
 module.exports = mongoose.model('Product', productSchema, 'products');
