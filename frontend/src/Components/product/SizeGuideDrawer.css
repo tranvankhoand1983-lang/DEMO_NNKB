@@ -1,0 +1,257 @@
+.size-drawer-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(0, 0, 0, 0.4);
+  z-index: 1000;
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.3s ease;
+}
+
+.size-drawer.open ~ .size-drawer-overlay,
+.size-drawer-overlay:has(+ .size-drawer.open) {
+  opacity: 1;
+  pointer-events: auto;
+}
+
+.size-drawer {
+  position: fixed;
+  top: 0;
+  right: 0;
+  height: 100vh;
+  width: 100%;
+  max-width: 500px;
+  background-color: #fff;
+  z-index: 1001;
+  transform: translateX(100%);
+  transition: transform 0.4s cubic-bezier(0.25, 1, 0.5, 1);
+  display: flex;
+  flex-direction: column;
+  box-shadow: -4px 0 24px rgba(0, 0, 0, 0.1);
+  overflow: hidden;
+}
+
+.size-drawer.open {
+  transform: translateX(0);
+}
+
+.size-drawer__header {
+  padding: 24px;
+  display: flex;
+  justify-content: flex-start;
+}
+
+.size-drawer__close {
+  background: none;
+  border: none;
+  cursor: pointer;
+  padding: 8px;
+  margin-left: -8px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: background-color 0.2s;
+}
+
+.size-drawer__close:hover {
+  background-color: #f7f7f7;
+}
+
+.size-drawer__tabs {
+  display: flex;
+  padding: 0 24px;
+  border-bottom: 1px solid #e5e5e5;
+  gap: 32px;
+}
+
+.size-drawer__tab {
+  background: none;
+  border: none;
+  padding: 0 0 16px;
+  font-family: var(--font-serif);
+  font-size: 16px;
+  color: #666;
+  cursor: pointer;
+  position: relative;
+  transition: color 0.2s;
+}
+
+.size-drawer__tab.active {
+  color: #111;
+}
+
+.size-drawer__tab.active::after {
+  content: '';
+  position: absolute;
+  bottom: -1px;
+  left: 0;
+  right: 0;
+  height: 2px;
+  background-color: #111;
+}
+
+.size-drawer__content {
+  flex: 1;
+  overflow-y: auto;
+  padding: 40px 24px;
+}
+
+/* Tab 1: Select */
+.size-table-header {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 0.5fr;
+  font-size: 11px;
+  text-transform: uppercase;
+  color: #888;
+  letter-spacing: 1px;
+  margin-bottom: 16px;
+  padding-bottom: 16px;
+  border-bottom: 1px solid #f0f0f0;
+  font-weight: 600;
+}
+
+.size-table-row {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 0.5fr;
+  padding: 20px 0;
+  border-bottom: 1px solid #f0f0f0;
+  align-items: center;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  font-size: 15px;
+}
+
+.size-cell-bold {
+  font-weight: 600;
+  color: var(--color-charcoal);
+}
+
+.size-table-row:hover:not(.disabled) {
+  background-color: #fafafa;
+  padding-left: 8px;
+  padding-right: 8px;
+  margin: 0 -8px;
+}
+
+.size-table-row.selected {
+  background-color: #f8f5ee;
+  border-bottom-color: var(--color-gold);
+}
+
+.size-table-row.disabled {
+  opacity: 0.3;
+  cursor: not-allowed;
+}
+
+/* Tab 2: Guide */
+.full-guide-image-container {
+  margin-bottom: 32px;
+  border-radius: 12px;
+  overflow: hidden;
+  border: 1px solid #f0f0f0;
+  background: #fff;
+}
+
+.full-guide-image {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+/* Calculator */
+.guide-calculator {
+  background: #f8f8f8;
+  padding: 32px;
+  border-radius: 16px;
+  margin-top: 40px;
+}
+
+.calc-title {
+  font-family: var(--font-serif);
+  font-size: 18px;
+  margin-bottom: 24px;
+  color: #111;
+}
+
+.calc-options {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  margin-bottom: 24px;
+}
+
+.calc-option-label {
+  cursor: pointer;
+  padding: 10px 20px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  background: #fff;
+  transition: all 0.2s ease;
+  font-size: 14px;
+}
+
+.calc-option-label:hover {
+  border-color: var(--color-gold);
+}
+
+.calc-option-label.active {
+  background: var(--color-gold);
+  border-color: var(--color-gold);
+  color: #fff;
+}
+
+.calc-option-label input {
+  display: none;
+}
+
+.calc-result-box {
+  margin-top: 32px;
+  padding-top: 24px;
+  border-top: 1px solid #ddd;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 16px;
+  animation: fadeIn 0.4s ease;
+}
+
+.result-size-badge {
+  font-size: 32px;
+  font-family: var(--font-serif);
+  color: var(--color-gold);
+  font-weight: 600;
+}
+
+.btn-apply-size {
+  width: 100%;
+  padding: 14px;
+  background: #111;
+  color: #fff;
+  border: none;
+  border-radius: 8px;
+  font-weight: 500;
+  cursor: pointer;
+  transition: opacity 0.2s;
+}
+
+.btn-apply-size:hover {
+  opacity: 0.9;
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(10px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+.size-guide-note {
+  font-size: 12px;
+  color: #999;
+  font-style: italic;
+  margin-top: 24px;
+  text-align: center;
+}
