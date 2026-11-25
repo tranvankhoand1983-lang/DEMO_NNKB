@@ -1,0 +1,18 @@
+[
+  {
+    "id": 28,
+    "cartId": 5,
+    "productId": 4,
+    "variantId": 401,
+    "quantity": 1,
+    "size": null
+  },
+  {
+    "id": 29,
+    "cartId": 4,
+    "productId": 1,
+    "variantId": 601,
+    "quantity": 1,
+    "size": null
+  }
+]

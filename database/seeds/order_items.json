@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "orderId": "ORD-2605106564",
+    "productId": 1,
+    "variantId": 1,
+    "quantity": 1,
+    "size": "5 (49mm)",
+    "priceAtPurchase": 149000.0
+  },
+  {
+    "id": 2,
+    "orderId": "ORD-2605106564",
+    "productId": 15,
+    "variantId": 27,
+    "quantity": 1,
+    "size": "M (16cm)",
+    "priceAtPurchase": 269000.0
+  },
+  {
+    "id": 3,
+    "orderId": "ORD-2605226007",
+    "productId": 2,
+    "variantId": 4,
+    "quantity": 1,
+    "size": "5 (49mm)",
+    "priceAtPurchase": 169000.0
+  },
+  {
+    "id": 4,
+    "orderId": "ORD-2605224242",
+    "productId": 2,
+    "variantId": 5,
+    "quantity": 1,
+    "size": "6 (51mm)",
+    "priceAtPurchase": 169000.0
+  },
+  {
+    "id": 5,
+    "orderId": "ORD-2605228993",
+    "productId": 1,
+    "variantId": 1,
+    "quantity": 1,
+    "size": "5 (49mm)",
+    "priceAtPurchase": 149000.0
+  },
+  {
+    "id": 6,
+    "orderId": "ORD-2605226028",
+    "productId": 20,
+    "variantId": 13,
+    "quantity": 1,
+    "size": "5 (49mm)",
+    "priceAtPurchase": 149000.0
+  },
+  {
+    "id": 7,
+    "orderId": "ORD-2605222563",
+    "productId": 2,
+    "variantId": 5,
+    "quantity": 1,
+    "size": "6 (51mm)",
+    "priceAtPurchase": 169000.0
+  },
+  {
+    "id": 8,
+    "orderId": "ORD-2605225295",
+    "productId": 2,
+    "variantId": 4,
+    "quantity": 1,
+    "size": "5 (49mm)",
+    "priceAtPurchase": 169000.0
+  },
+  {
+    "id": 9,
+    "orderId": "ORD-2605224942",
+    "productId": 1,
+    "variantId": 2,
+    "quantity": 1,
+    "size": "6 (51mm)",
+    "priceAtPurchase": 149000.0
+  },
+  {
+    "id": 10,
+    "orderId": "ORD-2605224785",
+    "productId": 3,
+    "variantId": 6,
+    "quantity": 1,
+    "size": "6 (51mm)",
+    "priceAtPurchase": 219000.0
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "slug": "gold",
+    "name": "Vàng"
+  },
+  {
+    "id": 2,
+    "slug": "silver",
+    "name": "Bạc"
+  },
+  {
+    "id": 3,
+    "slug": "platinum",
+    "name": "Vàng giả"
+  },
+  {
+    "id": 4,
+    "slug": "diamond",
+    "name": "Kim Cương"
+  }
+]

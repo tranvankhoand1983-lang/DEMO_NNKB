@@ -1,0 +1,1318 @@
+[
+  {
+    "id": 1,
+    "sku": "VEL-T1-RING",
+    "name": "Velmora T1 Narrow Ring",
+    "price": 149000.0,
+    "originalPrice": 189000.0,
+    "category": "ring",
+    "categoryId": 2,
+    "categoryName": "Nhẫn",
+    "material": "silver",
+    "materialId": 2,
+    "materialName": "Bạc",
+    "description": "{\"brand\":\"VELMORA Luxury\",\"material\":\"Bạc S925 mạ Rhodium\",\"stone\":\"Cubic Zirconia AAA\",\"weight\":\"2.1 chỉ\",\"style\":\"Hiện đại\",\"description\":\"Biểu tượng chữ V huyền thoại đại diện cho sức mạnh và sự tự tin cá nhân.\"}",
+    "originStory": null,
+    "stockQuantity": 296,
+    "rating": 4.9,
+    "reviews": 12,
+    "isNew": false,
+    "isSale": true,
+    "inStock": true,
+    "availableSizes": [
+      "5 (49mm)",
+      "6 (51mm)",
+      "7 (53mm)"
+    ],
+    "images": [
+      "https://media.tiffany.com/is/image/tco/72149513_RG_ALT3X1?hei=615&wid=615&fmt=webp"
+    ],
+    "detailedImages": [
+      {
+        "id": 62,
+        "productId": 1,
+        "url": "https://media.tiffany.com/is/image/tco/72149513_RG_ALT3X1?hei=615&wid=615&fmt=webp",
+        "isMain": 0,
+        "displayOrder": 0
+      }
+    ],
+    "variants": [
+      {
+        "id": 1,
+        "productId": 1,
+        "sku": "VEL-T1-RING-5",
+        "size": "5 (49mm)",
+        "price": 149000.0,
+        "originalPrice": 189000.0,
+        "stockQuantity": 97,
+        "isSale": true,
+        "createdAt": "2026-04-22 14:27:57",
+        "inStock": true
+      },
+      {
+        "id": 2,
+        "productId": 1,
+        "sku": "VEL-T1-RING-6",
+        "size": "6 (51mm)",
+        "price": 149000.0,
+        "originalPrice": 189000.0,
+        "stockQuantity": 99,
+        "isSale": true,
+        "createdAt": "2026-04-22 14:27:57",
+        "inStock": true
+      },
+      {
+        "id": 3,
+        "productId": 1,
+        "sku": "VEL-T1-RING-7",
+        "size": "7 (53mm)",
+        "price": 149000.0,
+        "originalPrice": 189000.0,
+        "stockQuantity": 100,
+        "isSale": true,
+        "createdAt": "2026-04-22 14:27:57",
+        "inStock": true
+      }
+    ],
+    "createdAt": "2026-04-16 19:05:29",
+    "reviewCount": 12
+  },
+  {
+    "id": 2,
+    "sku": "VEL-KNOT-RING",
+    "name": "Velmora Knot Ring",
+    "price": 169000.0,
+    "originalPrice": 219000.0,
+    "category": "ring",
+    "categoryId": 2,
+    "categoryName": "Nhẫn",
+    "material": "silver",
+    "materialId": 2,
+    "materialName": "Bạc",
+    "description": "{\"brand\":\"VELMORA Luxury\",\"material\":\"Bạc S925 mạ Platinum\",\"stone\":\"Không đá\",\"weight\":\"1.8 chỉ\",\"style\":\"Thanh lịch\",\"description\":\"Thiết kế nút thắt đặc trưng của dòng Velmora Knot tượng trưng cho sự gắn kết.\"}",
+    "originStory": null,
+    "stockQuantity": 40,
+    "rating": 4.8,
+    "reviews": 8,
+    "isNew": true,
+    "isSale": true,
+    "inStock": true,
+    "availableSizes": [
+      "5 (49mm)",
+      "6 (51mm)"
+    ],
+    "images": [
+      "https://media.tiffany.com/is/image/tco/70153238_RG_ALT3X1?hei=615&wid=615&fmt=webp",
+      "https://media.tiffany.com/is/image/tco/70153238_RG_SIO2X1?hei=1300&wid=1300&fmt=webp"
+    ],
+    "detailedImages": [
+      {
+        "id": 5,
+        "productId": 2,
+        "url": "https://media.tiffany.com/is/image/tco/70153238_RG_ALT3X1?hei=615&wid=615&fmt=webp",
+        "isMain": 1,
+        "displayOrder": 1
+      },
+      {
+        "id": 6,
+        "productId": 2,
+        "url": "https://media.tiffany.com/is/image/tco/70153238_RG_SIO2X1?hei=1300&wid=1300&fmt=webp",
+        "isMain": 0,
+        "displayOrder": 2
+      }
+    ],
+    "variants": [
+      {
+        "id": 4,
+        "productId": 2,
+        "sku": "VEL-KNOT-RG-5",
+        "size": "5 (49mm)",
+        "price": 169000.0,
+        "originalPrice": 219000.0,
+        "stockQuantity": 98,
+        "isSale": true,
+        "createdAt": "2026-04-22 14:27:57",
+        "inStock": true
+      },
+      {
+        "id": 5,
+        "productId": 2,
+        "sku": "VEL-KNOT-RG-6",
+        "size": "6 (51mm)",
+        "price": 169000.0,
+        "originalPrice": 219000.0,
+        "stockQuantity": 98,
+        "isSale": true,
+        "createdAt": "2026-04-22 14:27:57",
+        "inStock": true
+      }
+    ],
+    "createdAt": "2026-04-16 19:05:29",
+    "reviewCount": 8
+  },
+  {
+    "id": 3,
+    "sku": "VEL-FORGE-WIDE",
+    "name": "Velmora Forge Wide Ring",
+    "price": 219000.0,
+    "originalPrice": 259000.0,
+    "category": "ring",
+    "categoryId": 2,
+    "categoryName": "Nhẫn",
+    "material": "silver",
+    "materialId": 2,
+    "materialName": "Bạc",
+    "description": "{\"brand\":\"VELMORA Luxury\",\"material\":\"Bạc S925 Antique\",\"stone\":\"Kim cương Lab\",\"weight\":\"2.5 chỉ\",\"style\":\"Cá tính\",\"description\":\"Mẫu nhẫn mắt xích bản rộng mang phong cách Industrial độc đáo.\"}",
+    "originStory": null,
+    "stockQuantity": 30,
+    "rating": 4.7,
+    "reviews": 5,
+    "isNew": true,
+    "isSale": false,
+    "inStock": true,
+    "availableSizes": [
+      "6 (51mm)",
+      "7 (53mm)"
+    ],
+    "images": [
+      "https://media.tiffany.com/is/image/tco/73903920_RG_MAIN1X1?hei=628&wid=628&fmt=webp",
+      "https://media.tiffany.com/is/image/tco/73903920_RG_SIO2X1?hei=1300&wid=1300&fmt=webp",
+      "https://media.tiffany.com/is/image/tco/73903920_RG_SIO2X2?hei=615&wid=615&fmt=webp",
+      "https://media.tiffany.com/is/image/tco/73903920_RG_ALT3X1?hei=615&wid=615&fmt=webp"
+    ],
+    "detailedImages": [
+      {
+        "id": 7,
+        "productId": 3,
+        "url": "https://media.tiffany.com/is/image/tco/73903920_RG_MAIN1X1?hei=628&wid=628&fmt=webp",
+        "isMain": 1,
+        "displayOrder": 1
+      },
+      {
+        "id": 8,
+        "productId": 3,
+        "url": "https://media.tiffany.com/is/image/tco/73903920_RG_SIO2X1?hei=1300&wid=1300&fmt=webp",
+        "isMain": 0,
+        "displayOrder": 2
+      },
+      {
+        "id": 9,
+        "productId": 3,
+        "url": "https://media.tiffany.com/is/image/tco/73903920_RG_SIO2X2?hei=615&wid=615&fmt=webp",
+        "isMain": 0,
+        "displayOrder": 3
+      },
+      {
+        "id": 10,
+        "productId": 3,
+        "url": "https://media.tiffany.com/is/image/tco/73903920_RG_ALT3X1?hei=615&wid=615&fmt=webp",
+        "isMain": 0,
+        "displayOrder": 4
+      }
+    ],
+    "variants": [
+      {
+        "id": 6,
+        "productId": 3,
+        "sku": "VEL-FORGE-W-6",
+        "size": "6 (51mm)",
+        "price": 219000.0,
+        "originalPrice": 259000.0,
+        "stockQuantity": 99,
+        "isSale": true,
+        "createdAt": "2026-04-22 14:27:57",
+        "inStock": true
+      },
+      {
+        "id": 7,
+        "productId": 3,
+        "sku": "VEL-FORGE-W-7",
+        "size": "7 (53mm)",
+        "price": 219000.0,
+        "originalPrice": 259000.0,
+        "stockQuantity": 100,
+        "isSale": true,
+        "createdAt": "2026-04-22 14:27:57",
+        "inStock": true
+      }
+    ],
+    "createdAt": "2026-04-16 19:05:29",
+    "reviewCount": 5
+  },
+  {
+    "id": 4,
+    "sku": "VEL-VIC-RING",
+    "name": "Velmora Victoria Ring",
+    "price": 199000.0,
+    "originalPrice": 249000.0,
+    "category": "ring",
+    "categoryId": 2,
+    "categoryName": "Nhẫn",
+    "material": "diamond",
+    "materialId": 4,
+    "materialName": "Kim Cương",
+    "description": "{\"brand\":\"VELMORA Luxury\",\"material\":\"Bạc S925 mạ Platin\",\"stone\":\"Marquise cut Lab Diamond\",\"weight\":\"2.0 chỉ\",\"style\":\"Lộng lẫy\",\"description\":\"Cụm hoa Victoria lấp lánh như những vì sao đêm rực rỡ.\"}",
+    "originStory": null,
+    "stockQuantity": 25,
+    "rating": 4.9,
+    "reviews": 14,
+    "isNew": true,
+    "isSale": true,
+    "inStock": true,
+    "availableSizes": [
+      "5 (49mm)",
+      "6 (51mm)"
+    ],
+    "images": [
+      "https://media.tiffany.com/is/image/tco/60004097_RG_MAIN1X1?hei=2000&wid=2000&fmt=webp",
+      "https://media.tiffany.com/is/image/tco/60004097_RG_SIO2X1?hei=2000&wid=2000&fmt=webp"
+    ],
+    "detailedImages": [
+      {
+        "id": 11,
+        "productId": 4,
+        "url": "https://media.tiffany.com/is/image/tco/60004097_RG_MAIN1X1?hei=2000&wid=2000&fmt=webp",
+        "isMain": 1,
+        "displayOrder": 1
+      },
+      {
+        "id": 12,
+        "productId": 4,
+        "url": "https://media.tiffany.com/is/image/tco/60004097_RG_SIO2X1?hei=2000&wid=2000&fmt=webp",
+        "isMain": 0,
+        "displayOrder": 2
+      }
+    ],
+    "variants": [
+      {
+        "id": 8,
+        "productId": 4,
+        "sku": "VEL-VIC-RG-5",
+        "size": "5 (49mm)",
+        "price": 199000.0,
+        "originalPrice": 249000.0,
+        "stockQuantity": 100,
+        "isSale": true,
+        "createdAt": "2026-04-22 14:27:57",
+        "inStock": true
+      },
+      {
+        "id": 9,
+        "productId": 4,
+        "sku": "VEL-VIC-RG-6",
+        "size": "6 (51mm)",
+        "price": 199000.0,
+        "originalPrice": 249000.0,
+        "stockQuantity": 100,
+        "isSale": true,
+        "createdAt": "2026-04-22 14:27:57",
+        "inStock": true
+      }
+    ],
+    "createdAt": "2026-04-16 19:05:29",
+    "reviewCount": 14
+  },
+  {
+    "id": 5,
+    "sku": "VEL-SMILE-NK",
+    "name": "Velmora Smile Necklace",
+    "price": 269000.0,
+    "originalPrice": 299000.0,
+    "category": "necklace",
+    "categoryId": 1,
+    "categoryName": "Dây Chuyền",
+    "material": "silver",
+    "materialId": 2,
+    "materialName": "Bạc",
+    "description": "{\"brand\":\"VELMORA Luxury\",\"material\":\"Bạc S925 mạ Vàng trắng\",\"stone\":\"Zirconia tấm\",\"weight\":\"1.4 chỉ\",\"style\":\"Trẻ trung\",\"description\":\"Mặt dây chuyền nụ cười huyền thoại mang lại vẻ rạng rỡ và lạc quan.\"}",
+    "originStory": null,
+    "stockQuantity": 60,
+    "rating": 4.9,
+    "reviews": 42,
+    "isNew": false,
+    "isSale": true,
+    "inStock": true,
+    "availableSizes": [
+      "40cm",
+      "45cm"
+    ],
+    "images": [
+      "https://media.tiffany.com/is/image/tco/67544412_RG_MAIN1X1?hei=628&wid=628&fmt=webp",
+      "https://media.tiffany.com/is/image/tco/67544412_RG_SIO2X1?hei=1300&wid=1300&fmt=webp",
+      "https://media.tiffany.com/is/image/tco/67544412_RG_ALT3X1?hei=615&wid=615&fmt=webp",
+      "https://media.tiffany.com/is/image/tco/67544412_RG_ALT3X2?hei=615&wid=615&fmt=webp"
+    ],
+    "detailedImages": [
+      {
+        "id": 13,
+        "productId": 5,
+        "url": "https://media.tiffany.com/is/image/tco/67544412_RG_MAIN1X1?hei=628&wid=628&fmt=webp",
+        "isMain": 1,
+        "displayOrder": 1
+      },
+      {
+        "id": 14,
+        "productId": 5,
+        "url": "https://media.tiffany.com/is/image/tco/67544412_RG_SIO2X1?hei=1300&wid=1300&fmt=webp",
+        "isMain": 0,
+        "displayOrder": 2
+      },
+      {
+        "id": 15,
+        "productId": 5,
+        "url": "https://media.tiffany.com/is/image/tco/67544412_RG_ALT3X1?hei=615&wid=615&fmt=webp",
+        "isMain": 0,
+        "displayOrder": 3
+      },
+      {
+        "id": 16,
+        "productId": 5,
+        "url": "https://media.tiffany.com/is/image/tco/67544412_RG_ALT3X2?hei=615&wid=615&fmt=webp",
+        "isMain": 0,
+        "displayOrder": 4
+      }
+    ],
+    "variants": [
+      {
+        "id": 14,
+        "productId": 5,
+        "sku": "VEL-SMILE-40",
+        "size": "40cm",
+        "price": 269000.0,
+        "originalPrice": 299000.0,
+        "stockQuantity": 100,
+        "isSale": true,
+        "createdAt": "2026-04-22 14:27:57",
+        "inStock": true
+      },
+      {
+        "id": 15,
+        "productId": 5,
+        "sku": "VEL-SMILE-45",
+        "size": "45cm",
+        "price": 269000.0,
+        "originalPrice": 299000.0,
+        "stockQuantity": 100,
+        "isSale": true,
+        "createdAt": "2026-04-22 14:27:57",
+        "inStock": true
+      }
+    ],
+    "createdAt": "2026-04-16 19:05:29",
+    "reviewCount": 42
+  },
+  {
+    "id": 6,
+    "sku": "VEL-HARD-NK",
+    "name": "Velmora HardWear Pendant",
+    "price": 289000.0,
+    "originalPrice": 329000.0,
+    "category": "necklace",
+    "categoryId": 1,
+    "categoryName": "Dây Chuyền",
+    "material": "silver",
+    "materialId": 2,
+    "materialName": "Bạc",
+    "description": "{\"brand\":\"VELMORA Luxury\",\"material\":\"Bạc S925\",\"stone\":\"None\",\"weight\":\"3.0 chỉ\",\"style\":\"Phố thị\",\"description\":\"Sự kết hợp giữa mắt xích công nghiệp và nét nữ tính sang trọng.\"}",
+    "originStory": null,
+    "stockQuantity": 20,
+    "rating": 4.8,
+    "reviews": 9,
+    "isNew": true,
+    "isSale": false,
+    "inStock": true,
+    "availableSizes": [
+      "45cm"
+    ],
+    "images": [
+      "https://media.tiffany.com/is/image/tco/60022674_PDT_MAIN1X1?hei=628&wid=628&fmt=webp",
+      "https://media.tiffany.com/is/image/tco/60022674_PDT_SIO2X1?hei=1300&wid=1300&fmt=webp",
+      "https://media.tiffany.com/is/image/tco/60022674_PDT_ALT3X1?hei=615&wid=615&fmt=webp",
+      "https://media.tiffany.com/is/image/tco/60022674_PDT_ALT3X2?hei=615&wid=615&fmt=webp"
+    ],
+    "detailedImages": [
+      {
+        "id": 17,
+        "productId": 6,
+        "url": "https://media.tiffany.com/is/image/tco/60022674_PDT_MAIN1X1?hei=628&wid=628&fmt=webp",
+        "isMain": 1,
+        "displayOrder": 1
+      },
+      {
+        "id": 18,
+        "productId": 6,
+        "url": "https://media.tiffany.com/is/image/tco/60022674_PDT_SIO2X1?hei=1300&wid=1300&fmt=webp",
+        "isMain": 0,
+        "displayOrder": 2
+      },
+      {
+        "id": 19,
+        "productId": 6,
+        "url": "https://media.tiffany.com/is/image/tco/60022674_PDT_ALT3X1?hei=615&wid=615&fmt=webp",
+        "isMain": 0,
+        "displayOrder": 3
+      },
+      {
+        "id": 20,
+        "productId": 6,
+        "url": "https://media.tiffany.com/is/image/tco/60022674_PDT_ALT3X2?hei=615&wid=615&fmt=webp",
+        "isMain": 0,
+        "displayOrder": 4
+      }
+    ],
+    "variants": [
+      {
+        "id": 16,
+        "productId": 6,
+        "sku": "VEL-HARD-45",
+        "size": "45cm",
+        "price": 289000.0,
+        "originalPrice": 329000.0,
+        "stockQuantity": 100,
+        "isSale": true,
+        "createdAt": "2026-04-22 14:27:57",
+        "inStock": true
+      }
+    ],
+    "createdAt": "2026-04-16 19:05:29",
+    "reviewCount": 9
+  },
+  {
+    "id": 7,
+    "sku": "VEL-SOL-EAR",
+    "name": "Velmora Solitaire Studs",
+    "price": 159000.0,
+    "originalPrice": 199000.0,
+    "category": "earring",
+    "categoryId": 4,
+    "categoryName": "Bông Tai",
+    "material": "diamond",
+    "materialId": 4,
+    "materialName": "Kim Cương",
+    "description": "{\"brand\":\"VELMORA Luxury\",\"material\":\"Bạc S925 mạ Bạch kim\",\"stone\":\"Kim cương Lab 0.1ct\",\"weight\":\"0.5 chỉ\",\"style\":\"Cổ điển\",\"description\":\"Bông tai một viên đá tối giản, tối ưu hoá sự phản chiếu ánh sáng.\"}",
+    "originStory": null,
+    "stockQuantity": 15,
+    "rating": 5.0,
+    "reviews": 61,
+    "isNew": true,
+    "isSale": true,
+    "inStock": true,
+    "availableSizes": [
+      "Freesize"
+    ],
+    "images": [
+      "https://media.tiffany.com/is/image/tco/60090615_ER_MAIN1X1?hei=628&wid=628&fmt=webp",
+      "https://media.tiffany.com/is/image/tco/60090615_ER_SIO2X1?hei=1300&wid=1300&fmt=webp"
+    ],
+    "detailedImages": [
+      {
+        "id": 21,
+        "productId": 7,
+        "url": "https://media.tiffany.com/is/image/tco/60090615_ER_MAIN1X1?hei=628&wid=628&fmt=webp",
+        "isMain": 1,
+        "displayOrder": 1
+      },
+      {
+        "id": 22,
+        "productId": 7,
+        "url": "https://media.tiffany.com/is/image/tco/60090615_ER_SIO2X1?hei=1300&wid=1300&fmt=webp",
+        "isMain": 0,
+        "displayOrder": 2
+      }
+    ],
+    "variants": [
+      {
+        "id": 21,
+        "productId": 7,
+        "sku": "VEL-SOL-OS",
+        "size": "Freesize",
+        "price": 159000.0,
+        "originalPrice": 199000.0,
+        "stockQuantity": 100,
+        "isSale": true,
+        "createdAt": "2026-04-22 14:27:57",
+        "inStock": true
+      }
+    ],
+    "createdAt": "2026-04-16 19:05:29",
+    "reviewCount": 61
+  },
+  {
+    "id": 8,
+    "sku": "VEL-KNOT-BAN",
+    "name": "Velmora Knot Wire Bangle",
+    "price": 295000.0,
+    "originalPrice": 359000.0,
+    "category": "bracelet",
+    "categoryId": 3,
+    "categoryName": "Lắc Tay",
+    "material": "silver",
+    "materialId": 2,
+    "materialName": "Bạc",
+    "description": "{\"brand\":\"VELMORA Luxury\",\"material\":\"Bạc S925 mạ Vàng hồng\",\"stone\":\"Zirconia tinh khiết\",\"weight\":\"4.2 chỉ\",\"style\":\"Sang trọng\",\"description\":\"Vòng tay Wire Bangle với điểm nhấn nút thắt quấn đôi cực kỳ tinh xảo.\"}",
+    "originStory": null,
+    "stockQuantity": 10,
+    "rating": 4.9,
+    "reviews": 22,
+    "isNew": true,
+    "isSale": true,
+    "inStock": true,
+    "availableSizes": [
+      "S (15cm)",
+      "M (16cm)"
+    ],
+    "images": [
+      "https://media.tiffany.com/is/image/tco/69526012_BLT_MAIN1X1?hei=628&wid=628&fmt=webp",
+      "https://media.tiffany.com/is/image/tco/69526012_BLT_SIO2X1?hei=1300&wid=1300&fmt=webp",
+      "https://media.tiffany.com/is/image/tco/69526012_BLT_SIO2X2?hei=615&wid=615&fmt=webp",
+      "https://media.tiffany.com/is/image/tco/69526012_BLT_ALT3X1?hei=615&wid=615&fmt=webp",
+      "https://media.tiffany.com/is/image/tco/69526012_BLT_ALT3X3?hei=1300&wid=1300&fmt=webp"
+    ],
+    "detailedImages": [
+      {
+        "id": 23,
+        "productId": 8,
+        "url": "https://media.tiffany.com/is/image/tco/69526012_BLT_MAIN1X1?hei=628&wid=628&fmt=webp",
+        "isMain": 1,
+        "displayOrder": 1
+      },
+      {
+        "id": 24,
+        "productId": 8,
+        "url": "https://media.tiffany.com/is/image/tco/69526012_BLT_SIO2X1?hei=1300&wid=1300&fmt=webp",
+        "isMain": 0,
+        "displayOrder": 2
+      },
+      {
+        "id": 25,
+        "productId": 8,
+        "url": "https://media.tiffany.com/is/image/tco/69526012_BLT_SIO2X2?hei=615&wid=615&fmt=webp",
+        "isMain": 0,
+        "displayOrder": 3
+      },
+      {
+        "id": 26,
+        "productId": 8,
+        "url": "https://media.tiffany.com/is/image/tco/69526012_BLT_ALT3X1?hei=615&wid=615&fmt=webp",
+        "isMain": 0,
+        "displayOrder": 4
+      },
+      {
+        "id": 27,
+        "productId": 8,
+        "url": "https://media.tiffany.com/is/image/tco/69526012_BLT_ALT3X3?hei=1300&wid=1300&fmt=webp",
+        "isMain": 0,
+        "displayOrder": 5
+      }
+    ],
+    "variants": [
+      {
+        "id": 24,
+        "productId": 8,
+        "sku": "VEL-KNOT-BAN-S",
+        "size": "S (15cm)",
+        "price": 295000.0,
+        "originalPrice": 359000.0,
+        "stockQuantity": 100,
+        "isSale": true,
+        "createdAt": "2026-04-22 14:27:57",
+        "inStock": true
+      },
+      {
+        "id": 25,
+        "productId": 8,
+        "sku": "VEL-KNOT-BAN-M",
+        "size": "M (16cm)",
+        "price": 295000.0,
+        "originalPrice": 359000.0,
+        "stockQuantity": 100,
+        "isSale": true,
+        "createdAt": "2026-04-22 14:27:57",
+        "inStock": true
+      }
+    ],
+    "createdAt": "2026-04-16 19:05:29",
+    "reviewCount": 22
+  },
+  {
+    "id": 9,
+    "sku": "VEL-LOCK-RING",
+    "name": "Velmora Lock Ring",
+    "price": 189000.0,
+    "originalPrice": 219000.0,
+    "category": "ring",
+    "categoryId": 2,
+    "categoryName": "Nhẫn",
+    "material": "silver",
+    "materialId": 2,
+    "materialName": "Bạc",
+    "description": "{\"brand\":\"VELMORA Luxury\",\"material\":\"Bạc S925 mạ Rhodium\",\"stone\":\"None\",\"weight\":\"1.6 chỉ\",\"style\":\"Bình đẳng\",\"description\":\"Mẫu nhẫn lấy cảm hứng từ ổ khoá, mang thông điệp đoàn kết và bảo vệ.\"}",
+    "originStory": null,
+    "stockQuantity": 35,
+    "rating": 4.7,
+    "reviews": 7,
+    "isNew": true,
+    "isSale": true,
+    "inStock": true,
+    "availableSizes": [
+      "6 (51mm)"
+    ],
+    "images": [
+      "https://media.tiffany.com/is/image/tco/72149513_RG_ALT3X1?hei=615&wid=615&fmt=webp",
+      "https://media.tiffany.com/is/image/tco/72149513_RG_SIO2X1?hei=1300&wid=1300&fmt=webp"
+    ],
+    "detailedImages": [
+      {
+        "id": 28,
+        "productId": 9,
+        "url": "https://media.tiffany.com/is/image/tco/72149513_RG_ALT3X1?hei=615&wid=615&fmt=webp",
+        "isMain": 1,
+        "displayOrder": 1
+      },
+      {
+        "id": 29,
+        "productId": 9,
+        "url": "https://media.tiffany.com/is/image/tco/72149513_RG_SIO2X1?hei=1300&wid=1300&fmt=webp",
+        "isMain": 0,
+        "displayOrder": 2
+      }
+    ],
+    "variants": [
+      {
+        "id": 10,
+        "productId": 9,
+        "sku": "VEL-LOCK-R-6",
+        "size": "6 (51mm)",
+        "price": 189000.0,
+        "originalPrice": 219000.0,
+        "stockQuantity": 100,
+        "isSale": true,
+        "createdAt": "2026-04-22 14:27:57",
+        "inStock": true
+      }
+    ],
+    "createdAt": "2026-04-16 19:05:29",
+    "reviewCount": 7
+  },
+  {
+    "id": 10,
+    "sku": "VEL-SMILE-RG",
+    "name": "Velmora Smile Wire Ring",
+    "price": 139000.0,
+    "originalPrice": 169000.0,
+    "category": "ring",
+    "categoryId": 2,
+    "categoryName": "Nhẫn",
+    "material": "silver",
+    "materialId": 2,
+    "materialName": "Bạc",
+    "description": "{\"brand\":\"VELMORA Luxury\",\"material\":\"Bạc S925\",\"stone\":\"Kim cương Lab nhỏ\",\"weight\":\"1.1 chỉ\",\"style\":\"Năng động\",\"description\":\"Nụ cười trên ngón tay bạn - thiết kế thanh mảnh, dễ phối đồ.\"}",
+    "originStory": null,
+    "stockQuantity": 45,
+    "rating": 4.8,
+    "reviews": 19,
+    "isNew": false,
+    "isSale": true,
+    "inStock": true,
+    "availableSizes": [
+      "5 (49mm)"
+    ],
+    "images": [
+      "https://media.tiffany.com/is/image/tco/72149513_RG_ALT3X2?hei=615&wid=615&fmt=webp",
+      "https://media.tiffany.com/is/image/tco/72149513_RG_SIO2X1?hei=1300&wid=1300&fmt=webp"
+    ],
+    "detailedImages": [
+      {
+        "id": 40,
+        "productId": 10,
+        "url": "https://media.tiffany.com/is/image/tco/72149513_RG_ALT3X2?hei=615&wid=615&fmt=webp",
+        "isMain": 1,
+        "displayOrder": 1
+      },
+      {
+        "id": 41,
+        "productId": 10,
+        "url": "https://media.tiffany.com/is/image/tco/72149513_RG_SIO2X1?hei=1300&wid=1300&fmt=webp",
+        "isMain": 0,
+        "displayOrder": 2
+      }
+    ],
+    "variants": [
+      {
+        "id": 11,
+        "productId": 10,
+        "sku": "VEL-SMILE-R-5",
+        "size": "5 (49mm)",
+        "price": 149000.0,
+        "originalPrice": 179000.0,
+        "stockQuantity": 100,
+        "isSale": true,
+        "createdAt": "2026-04-22 14:27:57",
+        "inStock": true
+      }
+    ],
+    "createdAt": "2026-04-16 19:05:29",
+    "reviewCount": 19
+  },
+  {
+    "id": 11,
+    "sku": "VEL-KEY-PDT",
+    "name": "Velmora Victoria Key Pendant",
+    "price": 289000.0,
+    "originalPrice": 339000.0,
+    "category": "necklace",
+    "categoryId": 1,
+    "categoryName": "Dây Chuyền",
+    "material": "diamond",
+    "materialId": 4,
+    "materialName": "Kim Cương",
+    "description": "{\"brand\":\"VELMORA Luxury\",\"material\":\"Bạc S925 mạ Platin\",\"stone\":\"Lab Diamond Marquise\",\"weight\":\"2.3 chỉ\",\"style\":\"Quyền quý\",\"description\":\"Chìa khoá mở ra những cơ hội mới. Biểu tượng của sự độc lập và lộng lẫy.\"}",
+    "originStory": null,
+    "stockQuantity": 20,
+    "rating": 4.9,
+    "reviews": 15,
+    "isNew": true,
+    "isSale": true,
+    "inStock": true,
+    "availableSizes": [
+      "45cm"
+    ],
+    "images": [
+      "https://media.tiffany.com/is/image/tco/74627234_PDT_MAIN1X1?hei=2000&wid=2000&fmt=webp",
+      "https://media.tiffany.com/is/image/tco/74627234_PDT_SIO2X1?hei=1300&wid=1300&fmt=webp",
+      "https://media.tiffany.com/is/image/tco/74627234_PDT_ALT3X1?hei=615&wid=615&fmt=webp",
+      "https://media.tiffany.com/is/image/tco/74627234_PDT_ALT3X3?hei=1300&wid=1300&fmt=webp"
+    ],
+    "detailedImages": [
+      {
+        "id": 30,
+        "productId": 11,
+        "url": "https://media.tiffany.com/is/image/tco/74627234_PDT_MAIN1X1?hei=2000&wid=2000&fmt=webp",
+        "isMain": 1,
+        "displayOrder": 1
+      },
+      {
+        "id": 31,
+        "productId": 11,
+        "url": "https://media.tiffany.com/is/image/tco/74627234_PDT_SIO2X1?hei=1300&wid=1300&fmt=webp",
+        "isMain": 0,
+        "displayOrder": 2
+      },
+      {
+        "id": 32,
+        "productId": 11,
+        "url": "https://media.tiffany.com/is/image/tco/74627234_PDT_ALT3X1?hei=615&wid=615&fmt=webp",
+        "isMain": 0,
+        "displayOrder": 3
+      },
+      {
+        "id": 33,
+        "productId": 11,
+        "url": "https://media.tiffany.com/is/image/tco/74627234_PDT_ALT3X3?hei=1300&wid=1300&fmt=webp",
+        "isMain": 0,
+        "displayOrder": 4
+      }
+    ],
+    "variants": [
+      {
+        "id": 17,
+        "productId": 11,
+        "sku": "VEL-KEY-45",
+        "size": "45cm",
+        "price": 289000.0,
+        "originalPrice": 339000.0,
+        "stockQuantity": 100,
+        "isSale": true,
+        "createdAt": "2026-04-22 14:27:57",
+        "inStock": true
+      }
+    ],
+    "createdAt": "2026-04-16 19:05:29",
+    "reviewCount": 15
+  },
+  {
+    "id": 12,
+    "sku": "VEL-ATLAS-BAN",
+    "name": "Velmora Atlas X Bangle",
+    "price": 300000.0,
+    "originalPrice": 0.0,
+    "category": "bracelet",
+    "categoryId": 3,
+    "categoryName": "Lắc Tay",
+    "material": "silver",
+    "materialId": 2,
+    "materialName": "Bạc",
+    "description": "{\"brand\":\"VELMORA Luxury\",\"material\":\"Bạc S925 mạ Vàng 18K\",\"stone\":\"None\",\"weight\":\"4.5 chỉ\",\"style\":\"Cổ điển\",\"description\":\"Ký tự La Mã tượng trưng cho thời gian vĩnh cửu. Thiết kế bản rộng đầy quyền năng.\"}",
+    "originStory": null,
+    "stockQuantity": 100,
+    "rating": 4.8,
+    "reviews": 26,
+    "isNew": true,
+    "isSale": false,
+    "inStock": true,
+    "availableSizes": [
+      1.15
+    ],
+    "images": [
+      "https://media.tiffany.com/is/image/tco/60149788_BLT_MAIN1X1?hei=628&wid=628&fmt=webp"
+    ],
+    "detailedImages": [
+      {
+        "id": 61,
+        "productId": 12,
+        "url": "https://media.tiffany.com/is/image/tco/60149788_BLT_MAIN1X1?hei=628&wid=628&fmt=webp",
+        "isMain": 0,
+        "displayOrder": 0
+      }
+    ],
+    "variants": [
+      {
+        "id": 603,
+        "productId": 12,
+        "sku": "VEL-ATLAS-BAN-115",
+        "size": 1.15,
+        "price": 300000.0,
+        "originalPrice": 0.0,
+        "stockQuantity": 100,
+        "isSale": false,
+        "createdAt": "2026-04-22 08:32:36",
+        "inStock": true
+      }
+    ],
+    "createdAt": "2026-04-16 19:05:29",
+    "reviewCount": 26
+  },
+  {
+    "id": 13,
+    "sku": "VEL-RTT-NK",
+    "name": "Return to VELMORA Heart",
+    "price": 179000.0,
+    "originalPrice": 219000.0,
+    "category": "necklace",
+    "categoryId": 1,
+    "categoryName": "Dây Chuyền",
+    "material": "silver",
+    "materialId": 2,
+    "materialName": "Bạc",
+    "description": "{\"brand\":\"VELMORA Luxury\",\"material\":\"Bạc S925\",\"stone\":\"Enamel Blue\",\"weight\":\"1.6 chỉ\",\"style\":\"Biểu tượng\",\"description\":\"Thiết kế kinh điển với tag trái tim mang phong cách riêng của Velmora.\"}",
+    "originStory": null,
+    "stockQuantity": 55,
+    "rating": 5.0,
+    "reviews": 142,
+    "isNew": false,
+    "isSale": true,
+    "inStock": true,
+    "availableSizes": [
+      "40cm",
+      "45cm"
+    ],
+    "images": [
+      "https://media.tiffany.com/is/image/tco/60018402_PDT_MAIN1X1?hei=628&wid=628&fmt=webp",
+      "https://media.tiffany.com/is/image/tco/60018402_PDT_SIO2X1?hei=1300&wid=1300&fmt=webp"
+    ],
+    "detailedImages": [
+      {
+        "id": 34,
+        "productId": 13,
+        "url": "https://media.tiffany.com/is/image/tco/60018402_PDT_MAIN1X1?hei=628&wid=628&fmt=webp",
+        "isMain": 1,
+        "displayOrder": 1
+      },
+      {
+        "id": 35,
+        "productId": 13,
+        "url": "https://media.tiffany.com/is/image/tco/60018402_PDT_SIO2X1?hei=1300&wid=1300&fmt=webp",
+        "isMain": 0,
+        "displayOrder": 2
+      }
+    ],
+    "variants": [
+      {
+        "id": 18,
+        "productId": 13,
+        "sku": "VEL-RTT-40",
+        "size": "40cm",
+        "price": 179000.0,
+        "originalPrice": 219000.0,
+        "stockQuantity": 100,
+        "isSale": true,
+        "createdAt": "2026-04-22 14:27:57",
+        "inStock": true
+      },
+      {
+        "id": 19,
+        "productId": 13,
+        "sku": "VEL-RTT-45",
+        "size": "45cm",
+        "price": 189000.0,
+        "originalPrice": 229000.0,
+        "stockQuantity": 100,
+        "isSale": true,
+        "createdAt": "2026-04-22 14:27:57",
+        "inStock": true
+      }
+    ],
+    "createdAt": "2026-04-16 19:05:29",
+    "reviewCount": 142
+  },
+  {
+    "id": 14,
+    "sku": "VEL-PAPER-EAR",
+    "name": "Velmora Paper Flowers Earrings",
+    "price": 259000.0,
+    "originalPrice": 299000.0,
+    "category": "earring",
+    "categoryId": 4,
+    "categoryName": "Bông Tai",
+    "material": "diamond",
+    "materialId": 4,
+    "materialName": "Kim Cương",
+    "description": "{\"brand\":\"VELMORA Luxury\",\"material\":\"Bạc S925\",\"stone\":\"Fire Opal Lab\",\"weight\":\"0.9 chỉ\",\"style\":\"Nghệ thuật\",\"description\":\"Sự chuyển động của những cánh hoa giấy trong gió, đính đá sang trọng.\"}",
+    "originStory": null,
+    "stockQuantity": 0,
+    "rating": 4.7,
+    "reviews": 11,
+    "isNew": true,
+    "isSale": true,
+    "inStock": false,
+    "availableSizes": [
+      "Freesize"
+    ],
+    "images": [
+      "https://media.tiffany.com/is/image/tco/66912167_ER_MAIN1X1?hei=628&wid=628&fmt=webp"
+    ],
+    "detailedImages": [
+      {
+        "id": 59,
+        "productId": 14,
+        "url": "https://media.tiffany.com/is/image/tco/66912167_ER_MAIN1X1?hei=628&wid=628&fmt=webp",
+        "isMain": 0,
+        "displayOrder": 0
+      }
+    ],
+    "variants": [
+      {
+        "id": 22,
+        "productId": 14,
+        "sku": "VEL-PAPER-OS",
+        "size": "Freesize",
+        "price": 259000.0,
+        "originalPrice": 299000.0,
+        "stockQuantity": 0,
+        "isSale": true,
+        "createdAt": "2026-04-22 14:27:57",
+        "inStock": false
+      }
+    ],
+    "createdAt": "2026-04-16 19:05:29",
+    "reviewCount": 11
+  },
+  {
+    "id": 15,
+    "sku": "VEL-HARD-BR",
+    "name": "Velmora HardWear Link Bangle",
+    "price": 269000.0,
+    "originalPrice": 319000.0,
+    "category": "bracelet",
+    "categoryId": 3,
+    "categoryName": "Lắc Tay",
+    "material": "silver",
+    "materialId": 2,
+    "materialName": "Bạc",
+    "description": "{\"brand\":\"VELMORA Luxury\",\"material\":\"Bạc S925 mạ Rhodium\",\"stone\":\"None\",\"weight\":\"3.8 chỉ\",\"style\":\"Phá cách\",\"description\":\"Những mắt xích táo bạo mang hơi thở của thời đại mới.\"}",
+    "originStory": null,
+    "stockQuantity": 25,
+    "rating": 4.8,
+    "reviews": 33,
+    "isNew": true,
+    "isSale": true,
+    "inStock": true,
+    "availableSizes": [
+      "M (16cm)"
+    ],
+    "images": [
+      "https://media.tiffany.com/is/image/tco/60153083_BLT_MAIN1X1?hei=628&wid=628&fmt=webp",
+      "https://media.tiffany.com/is/image/tco/60153083_BLT_SIO2X1?hei=1300&wid=1300&fmt=webp"
+    ],
+    "detailedImages": [
+      {
+        "id": 46,
+        "productId": 15,
+        "url": "https://media.tiffany.com/is/image/tco/60153083_BLT_MAIN1X1?hei=628&wid=628&fmt=webp",
+        "isMain": 1,
+        "displayOrder": 1
+      },
+      {
+        "id": 47,
+        "productId": 15,
+        "url": "https://media.tiffany.com/is/image/tco/60153083_BLT_SIO2X1?hei=1300&wid=1300&fmt=webp",
+        "isMain": 0,
+        "displayOrder": 2
+      }
+    ],
+    "variants": [
+      {
+        "id": 27,
+        "productId": 15,
+        "sku": "VEL-HARD-BR-M",
+        "size": "M (16cm)",
+        "price": 269000.0,
+        "originalPrice": 319000.0,
+        "stockQuantity": 99,
+        "isSale": true,
+        "createdAt": "2026-04-22 14:27:57",
+        "inStock": true
+      }
+    ],
+    "createdAt": "2026-04-16 19:05:29",
+    "reviewCount": 33
+  },
+  {
+    "id": 17,
+    "sku": "VEL-SIGN-ER",
+    "name": "Velmora Signature Studs",
+    "price": 129000.0,
+    "originalPrice": 159000.0,
+    "category": "earring",
+    "categoryId": 4,
+    "categoryName": "Bông Tai",
+    "material": "silver",
+    "materialId": 2,
+    "materialName": "Bạc",
+    "description": "{\"brand\":\"VELMORA Luxury\",\"material\":\"Bạc S925 bóng\",\"stone\":\"None\",\"weight\":\"0.4 chỉ\",\"style\":\"Tối giản\",\"description\":\"Dành cho những người yêu thích sự đơn giản nhưng tinh tế đến từng chi tiết.\"}",
+    "originStory": null,
+    "stockQuantity": 100,
+    "rating": 4.6,
+    "reviews": 54,
+    "isNew": false,
+    "isSale": true,
+    "inStock": true,
+    "availableSizes": [
+      "Freesize"
+    ],
+    "images": [
+      "https://media.tiffany.com/is/image/tco/40304914_ER_MAIN1X1?hei=628&wid=628&fmt=webp"
+    ],
+    "detailedImages": [
+      {
+        "id": 56,
+        "productId": 17,
+        "url": "https://media.tiffany.com/is/image/tco/40304914_ER_MAIN1X1?hei=628&wid=628&fmt=webp",
+        "isMain": 0,
+        "displayOrder": 0
+      }
+    ],
+    "variants": [
+      {
+        "id": 23,
+        "productId": 17,
+        "sku": "VEL-SIGN-OS",
+        "size": "Freesize",
+        "price": 129000.0,
+        "originalPrice": 159000.0,
+        "stockQuantity": 100,
+        "isSale": true,
+        "createdAt": "2026-04-22 14:27:57",
+        "inStock": true
+      }
+    ],
+    "createdAt": "2026-04-16 19:05:29",
+    "reviewCount": 54
+  },
+  {
+    "id": 18,
+    "sku": "VEL-OLIVE-RG",
+    "name": "Olive Leaf Velmora Edition",
+    "price": 199000.0,
+    "originalPrice": 239000.0,
+    "category": "ring",
+    "categoryId": 2,
+    "categoryName": "Nhẫn",
+    "material": "silver",
+    "materialId": 2,
+    "materialName": "Bạc",
+    "description": "{\"brand\":\"VELMORA Luxury\",\"material\":\"Bạc S925\",\"stone\":\"Amethyst Lab\",\"weight\":\"1.7 chỉ\",\"style\":\"Thiên nhiên\",\"description\":\"Nhành ô liu tượng trưng cho hoà bình và sự phục hồi. Thiết kế đầy chất thơ.\"}",
+    "originStory": null,
+    "stockQuantity": 30,
+    "rating": 4.85,
+    "reviews": 21,
+    "isNew": true,
+    "isSale": true,
+    "inStock": true,
+    "availableSizes": [
+      "6 (51mm)"
+    ],
+    "images": [
+      "https://media.tiffany.com/is/image/tco/60132211_ER_MAIN1X1?hei=628&wid=628&fmt=webp",
+      "https://media.tiffany.com/is/image/tco/60132211_ER_SIO2X1?hei=1300&wid=1300&fmt=webp"
+    ],
+    "detailedImages": [
+      {
+        "id": 50,
+        "productId": 18,
+        "url": "https://media.tiffany.com/is/image/tco/60132211_ER_MAIN1X1?hei=628&wid=628&fmt=webp",
+        "isMain": 1,
+        "displayOrder": 1
+      },
+      {
+        "id": 51,
+        "productId": 18,
+        "url": "https://media.tiffany.com/is/image/tco/60132211_ER_SIO2X1?hei=1300&wid=1300&fmt=webp",
+        "isMain": 0,
+        "displayOrder": 2
+      }
+    ],
+    "variants": [
+      {
+        "id": 12,
+        "productId": 18,
+        "sku": "VEL-OLIVE-R-6",
+        "size": "6 (51mm)",
+        "price": 199000.0,
+        "originalPrice": 239000.0,
+        "stockQuantity": 100,
+        "isSale": true,
+        "createdAt": "2026-04-22 14:27:57",
+        "inStock": true
+      }
+    ],
+    "createdAt": "2026-04-16 19:05:29",
+    "reviewCount": 21
+  },
+  {
+    "id": 19,
+    "sku": "VEL-VIC-NK",
+    "name": "Velmora Victoria Mixed Cluster",
+    "price": 299000.0,
+    "originalPrice": 389000.0,
+    "category": "necklace",
+    "categoryId": 1,
+    "categoryName": "Dây Chuyền",
+    "material": "diamond",
+    "materialId": 4,
+    "materialName": "Kim Cương",
+    "description": "{\"brand\":\"VELMORA Luxury\",\"material\":\"Bạc S925 mạ Platin\",\"stone\":\"Diamond Lab Mixed Cut\",\"weight\":\"3.1 chỉ\",\"style\":\"Đẳng cấp\",\"description\":\"Sự kết hợp của nhiều kiểu cắt đá tạo nên độ bắt sáng đa chiều rực rỡ.\"}",
+    "originStory": null,
+    "stockQuantity": 8,
+    "rating": 5.0,
+    "reviews": 17,
+    "isNew": true,
+    "isSale": false,
+    "inStock": true,
+    "availableSizes": [
+      "42cm"
+    ],
+    "images": [
+      "https://media.tiffany.com/is/image/tco/60022674_PDT_MAIN1X1?hei=628&wid=628&fmt=webp",
+      "https://media.tiffany.com/is/image/tco/60022674_PDT_SIO2X1?hei=1300&wid=1300&fmt=webp"
+    ],
+    "detailedImages": [
+      {
+        "id": 52,
+        "productId": 19,
+        "url": "https://media.tiffany.com/is/image/tco/60022674_PDT_MAIN1X1?hei=628&wid=628&fmt=webp",
+        "isMain": 1,
+        "displayOrder": 1
+      },
+      {
+        "id": 53,
+        "productId": 19,
+        "url": "https://media.tiffany.com/is/image/tco/60022674_PDT_SIO2X1?hei=1300&wid=1300&fmt=webp",
+        "isMain": 0,
+        "displayOrder": 2
+      }
+    ],
+    "variants": [
+      {
+        "id": 20,
+        "productId": 19,
+        "sku": "VEL-VIC-NK-42",
+        "size": "42cm",
+        "price": 299000.0,
+        "originalPrice": 389000.0,
+        "stockQuantity": 100,
+        "isSale": false,
+        "createdAt": "2026-04-22 14:27:57",
+        "inStock": true
+      }
+    ],
+    "createdAt": "2026-04-16 19:05:29",
+    "reviewCount": 17
+  },
+  {
+    "id": 20,
+    "sku": "VEL-HAR-RING",
+    "name": "Velmora Harmony Ring Band",
+    "price": 149000.0,
+    "originalPrice": 179000.0,
+    "category": "ring",
+    "categoryId": 2,
+    "categoryName": "Nhẫn",
+    "material": "silver",
+    "materialId": 2,
+    "materialName": "Bạc",
+    "description": "{\"brand\":\"VELMORA Luxury\",\"material\":\"Bạc S925 mạ Rhodium\",\"stone\":\"Zirconia tấm\",\"weight\":\"1.2 chỉ\",\"style\":\"Lãng mạn\",\"description\":\"Nhẫn Harmony với đường cong ôm trọn viên đá, tượng trưng cho sự hoà quyện tình yêu.\"}",
+    "originStory": null,
+    "stockQuantity": 50,
+    "rating": 4.9,
+    "reviews": 65,
+    "isNew": true,
+    "isSale": true,
+    "inStock": true,
+    "availableSizes": [
+      "5 (49mm)"
+    ],
+    "images": [
+      "https://media.tiffany.com/is/image/tco/72149513_RG_ALT3X1?hei=615&wid=615&fmt=webp",
+      "https://media.tiffany.com/is/image/tco/72149513_RG_SIO2X1?hei=2000&wid=2000&fmt=webp",
+      "https://media.tiffany.com/is/image/tco/60147091_RG_MAIN1X1?hei=282&wid=282&fmt=webp",
+      "https://media.tiffany.com/is/image/tco/72149513_RG_ALT3X2?hei=615&wid=615&fmt=webp"
+    ],
+    "detailedImages": [
+      {
+        "id": 36,
+        "productId": 20,
+        "url": "https://media.tiffany.com/is/image/tco/72149513_RG_ALT3X1?hei=615&wid=615&fmt=webp",
+        "isMain": 1,
+        "displayOrder": 1
+      },
+      {
+        "id": 37,
+        "productId": 20,
+        "url": "https://media.tiffany.com/is/image/tco/72149513_RG_SIO2X1?hei=2000&wid=2000&fmt=webp",
+        "isMain": 0,
+        "displayOrder": 2
+      },
+      {
+        "id": 38,
+        "productId": 20,
+        "url": "https://media.tiffany.com/is/image/tco/60147091_RG_MAIN1X1?hei=282&wid=282&fmt=webp",
+        "isMain": 0,
+        "displayOrder": 3
+      },
+      {
+        "id": 39,
+        "productId": 20,
+        "url": "https://media.tiffany.com/is/image/tco/72149513_RG_ALT3X2?hei=615&wid=615&fmt=webp",
+        "isMain": 0,
+        "displayOrder": 4
+      }
+    ],
+    "variants": [
+      {
+        "id": 13,
+        "productId": 20,
+        "sku": "VEL-HAR-R-5",
+        "size": "5 (49mm)",
+        "price": 149000.0,
+        "originalPrice": 179000.0,
+        "stockQuantity": 99,
+        "isSale": true,
+        "createdAt": "2026-04-22 14:27:57",
+        "inStock": true
+      }
+    ],
+    "createdAt": "2026-04-16 19:05:29",
+    "reviewCount": 65
+  }
+]

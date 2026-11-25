@@ -1,0 +1,50 @@
+[
+  {
+    "id": "847bced1-7bc2-41d0-86fa-2bf83f12216b",
+    "fullName": "Trần Mỹ Hà",
+    "name": "Trần Mỹ Hà",
+    "email": "tranminhnguyet10112005@gmail.com",
+    "password": "$2a$11$xDnjFyjOkx6ioTV7wUcs..t1Rw4w63Awtc1zv8PQ17fzRvCM0MIZq",
+    "avatar": null,
+    "role": "customer",
+    "provider": "email",
+    "phone": null,
+    "address": null,
+    "newsletterOptin": false,
+    "isActive": true,
+    "createdAt": "2026-05-22 05:07:00",
+    "defaultAddress": null
+  },
+  {
+    "id": "admin-uuid-001",
+    "fullName": "Admin Velmora",
+    "name": "Admin Velmora",
+    "email": "admin@velmora.com",
+    "password": "Admin@123",
+    "avatar": null,
+    "role": "admin",
+    "provider": "email",
+    "phone": 901234567,
+    "address": null,
+    "newsletterOptin": false,
+    "isActive": true,
+    "createdAt": "2026-04-16 19:31:48",
+    "defaultAddress": null
+  },
+  {
+    "id": "d7662f9f-f41b-4ec0-8cbc-21018e5018fa",
+    "fullName": "Trần Minh Nguyệt (TMN)",
+    "name": "Trần Minh Nguyệt (TMN)",
+    "email": "tranvankhoand1983@gmail.com",
+    "password": null,
+    "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJFchnczOLMGSIB1_cyVTXi140FRHs3aIJiTg3A9aQyOpkA7UkI=s96-c",
+    "role": "customer",
+    "provider": "google",
+    "phone": null,
+    "address": null,
+    "newsletterOptin": false,
+    "isActive": true,
+    "createdAt": "2026-04-20 08:39:28",
+    "defaultAddress": null
+  }
+]

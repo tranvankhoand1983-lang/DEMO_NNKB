@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "slug": "necklace",
+    "name": "Dây Chuyền",
+    "imageUrl": "https://th.bing.com/th/id/R.43c8732d49a631675fcd2e81a1071c9f?rik=Psk4WKL%2f7d2Kjw&riu=http%3a%2f%2fimg.ltwebstatic.com%2fimages3_spmp%2f2023%2f08%2f19%2fd5%2f16924187712a18d0c0f978cbffe30bc40384a5de43_thumbnail_600x.jpg&ehk=j%2fPbcUHmWyuy%2f01nuwtsmc5sLuUTzTKE2bk8dwP5%2fSs%3d&risl=&pid=ImgRaw&r=0",
+    "description": "Những mẫu dây chuyền tinh tế, tôn vinh vẻ đẹp vùng cổ.",
+    "createdAt": "2026-04-16 19:05:28"
+  },
+  {
+    "id": 2,
+    "slug": "ring",
+    "name": "Nhẫn",
+    "imageUrl": "https://i.etsystatic.com/5306257/r/il/fc30e9/1449851507/il_1080xN.1449851507_cx2t.jpg",
+    "description": "Biểu tượng của tình yêu và sự cam kết vĩnh cửu.",
+    "createdAt": "2026-04-16 19:05:28"
+  },
+  {
+    "id": 3,
+    "slug": "bracelet",
+    "name": "Lắc Tay",
+    "imageUrl": "https://i.pinimg.com/736x/4c/5d/3d/4c5d3d16528b170ea79e97e402dcdf9e.jpg",
+    "description": "Điểm nhấn sang trọng cho đôi tay phái đẹp.",
+    "createdAt": "2026-04-16 19:05:28"
+  },
+  {
+    "id": 4,
+    "slug": "earring",
+    "name": "Bông Tai",
+    "imageUrl": "https://dygtyjqp7pi0m.cloudfront.net/i/70710/55563408_1.jpg?v=8DD43253DF277F0",
+    "description": "Lấp lánh và rạng rỡ, làm nổi bật khuôn mặt.",
+    "createdAt": "2026-04-16 19:05:28"
+  }
+]

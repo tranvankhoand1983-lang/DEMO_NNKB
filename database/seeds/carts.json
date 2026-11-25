@@ -1,0 +1,49 @@
+[
+  {
+    "id": 4,
+    "userId": "admin-uuid-001",
+    "createdAt": "2026-04-18 15:49:46",
+    "items": [
+      {
+        "id": 29,
+        "cartId": 4,
+        "productId": 1,
+        "variantId": 601,
+        "quantity": 1,
+        "size": null,
+        "product": {
+          "id": 1,
+          "name": "Velmora T1 Narrow Ring",
+          "price": 149000.0,
+          "images": [
+            "https://media.tiffany.com/is/image/tco/72149513_RG_ALT3X1?hei=615&wid=615&fmt=webp"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "userId": "d7662f9f-f41b-4ec0-8cbc-21018e5018fa",
+    "createdAt": "2026-04-20 08:41:08",
+    "items": [
+      {
+        "id": 28,
+        "cartId": 5,
+        "productId": 4,
+        "variantId": 401,
+        "quantity": 1,
+        "size": null,
+        "product": {
+          "id": 4,
+          "name": "Velmora Victoria Ring",
+          "price": 199000.0,
+          "images": [
+            "https://media.tiffany.com/is/image/tco/60004097_RG_MAIN1X1?hei=2000&wid=2000&fmt=webp",
+            "https://media.tiffany.com/is/image/tco/60004097_RG_SIO2X1?hei=2000&wid=2000&fmt=webp"
+          ]
+        }
+      }
+    ]
+  }
+]

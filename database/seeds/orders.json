@@ -1,0 +1,502 @@
+[
+  {
+    "id": "ORD-2605106564",
+    "userId": "admin-uuid-001",
+    "date": "2026-05-09 18:35:05",
+    "createdAt": "2026-05-09 18:35:05",
+    "paidAt": null,
+    "paymentDate": null,
+    "recipientName": "Admin Velmora",
+    "firstName": "Admin",
+    "lastName": "Velmora",
+    "email": "admin@velmora.com",
+    "phone": 329387676,
+    "company": null,
+    "address": "minh tân",
+    "apartment": null,
+    "city": "Ninh Bình",
+    "country": "Vietnam",
+    "postalCode": null,
+    "shippingMethod": "free",
+    "shippingFee": 30000.0,
+    "paymentMethod": "vietqr",
+    "paymentStatus": "unpaid",
+    "status": "pending",
+    "orderStatus": "pending",
+    "discountCode": null,
+    "discountAmount": 0.0,
+    "total": 448000.0,
+    "totalAmount": 448000.0,
+    "estimatedDelivery": null,
+    "items": [
+      {
+        "id": 1,
+        "orderId": "ORD-2605106564",
+        "productId": 1,
+        "variantId": 1,
+        "quantity": 1,
+        "size": "5 (49mm)",
+        "priceAtPurchase": 149000.0,
+        "product": {
+          "id": 1,
+          "name": "Velmora T1 Narrow Ring",
+          "price": 149000.0,
+          "images": [
+            "https://media.tiffany.com/is/image/tco/72149513_RG_ALT3X1?hei=615&wid=615&fmt=webp"
+          ]
+        }
+      },
+      {
+        "id": 2,
+        "orderId": "ORD-2605106564",
+        "productId": 15,
+        "variantId": 27,
+        "quantity": 1,
+        "size": "M (16cm)",
+        "priceAtPurchase": 269000.0,
+        "product": {
+          "id": 15,
+          "name": "Velmora HardWear Link Bangle",
+          "price": 269000.0,
+          "images": [
+            "https://media.tiffany.com/is/image/tco/60153083_BLT_MAIN1X1?hei=628&wid=628&fmt=webp",
+            "https://media.tiffany.com/is/image/tco/60153083_BLT_SIO2X1?hei=1300&wid=1300&fmt=webp"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "ORD-2605222563",
+    "userId": "admin-uuid-001",
+    "date": "2026-05-22 16:19:56",
+    "createdAt": "2026-05-22 16:19:56",
+    "paidAt": null,
+    "paymentDate": null,
+    "recipientName": "Admin Velmora",
+    "firstName": "Admin",
+    "lastName": "Velmora",
+    "email": "admin@velmora.com",
+    "phone": 342876765,
+    "company": null,
+    "address": "Thon Bich",
+    "apartment": null,
+    "city": "Ninh Binh",
+    "country": "Vietnam",
+    "postalCode": null,
+    "shippingMethod": "free",
+    "shippingFee": 0.0,
+    "paymentMethod": "payos",
+    "paymentStatus": "Pending",
+    "status": "Chờ xác nhận",
+    "orderStatus": "Chờ xác nhận",
+    "discountCode": null,
+    "discountAmount": 0.0,
+    "total": 169000.0,
+    "totalAmount": 169000.0,
+    "estimatedDelivery": null,
+    "items": [
+      {
+        "id": 7,
+        "orderId": "ORD-2605222563",
+        "productId": 2,
+        "variantId": 5,
+        "quantity": 1,
+        "size": "6 (51mm)",
+        "priceAtPurchase": 169000.0,
+        "product": {
+          "id": 2,
+          "name": "Velmora Knot Ring",
+          "price": 169000.0,
+          "images": [
+            "https://media.tiffany.com/is/image/tco/70153238_RG_ALT3X1?hei=615&wid=615&fmt=webp",
+            "https://media.tiffany.com/is/image/tco/70153238_RG_SIO2X1?hei=1300&wid=1300&fmt=webp"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "ORD-2605224242",
+    "userId": "d7662f9f-f41b-4ec0-8cbc-21018e5018fa",
+    "date": "2026-05-22 15:24:45",
+    "createdAt": "2026-05-22 15:24:45",
+    "paidAt": "2026-05-22 16:04:07",
+    "paymentDate": "2026-05-22 16:04:07",
+    "recipientName": "Trần Minh Nguyệt (TMN)",
+    "firstName": "Trần Minh Nguyệt",
+    "lastName": "(TMN)",
+    "email": "tranvankhoand1983@gmail.com",
+    "phone": 987676545,
+    "company": null,
+    "address": "Minh Tan",
+    "apartment": null,
+    "city": "Ninh Binh",
+    "country": "Vietnam",
+    "postalCode": null,
+    "shippingMethod": "free",
+    "shippingFee": 0.0,
+    "paymentMethod": "vnpay",
+    "paymentStatus": "Paid",
+    "status": "Chờ xác nhận",
+    "orderStatus": "Chờ xác nhận",
+    "discountCode": null,
+    "discountAmount": 0.0,
+    "total": 169000.0,
+    "totalAmount": 169000.0,
+    "estimatedDelivery": null,
+    "items": [
+      {
+        "id": 4,
+        "orderId": "ORD-2605224242",
+        "productId": 2,
+        "variantId": 5,
+        "quantity": 1,
+        "size": "6 (51mm)",
+        "priceAtPurchase": 169000.0,
+        "product": {
+          "id": 2,
+          "name": "Velmora Knot Ring",
+          "price": 169000.0,
+          "images": [
+            "https://media.tiffany.com/is/image/tco/70153238_RG_ALT3X1?hei=615&wid=615&fmt=webp",
+            "https://media.tiffany.com/is/image/tco/70153238_RG_SIO2X1?hei=1300&wid=1300&fmt=webp"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "ORD-2605224785",
+    "userId": "admin-uuid-001",
+    "date": "2026-05-22 16:38:36",
+    "createdAt": "2026-05-22 16:38:36",
+    "paidAt": "2026-05-22 16:39:47",
+    "paymentDate": "2026-05-22 16:39:47",
+    "recipientName": "Admin Velmora",
+    "firstName": "Admin",
+    "lastName": "Velmora",
+    "email": "admin@velmora.com",
+    "phone": 987656545,
+    "company": null,
+    "address": "Thon Bich",
+    "apartment": null,
+    "city": "Nam Dinh",
+    "country": "Vietnam",
+    "postalCode": null,
+    "shippingMethod": "free",
+    "shippingFee": 0.0,
+    "paymentMethod": "payos",
+    "paymentStatus": "Paid",
+    "status": "Chờ lấy hàng",
+    "orderStatus": "Chờ lấy hàng",
+    "discountCode": null,
+    "discountAmount": 0.0,
+    "total": 219000.0,
+    "totalAmount": 219000.0,
+    "estimatedDelivery": null,
+    "items": [
+      {
+        "id": 10,
+        "orderId": "ORD-2605224785",
+        "productId": 3,
+        "variantId": 6,
+        "quantity": 1,
+        "size": "6 (51mm)",
+        "priceAtPurchase": 219000.0,
+        "product": {
+          "id": 3,
+          "name": "Velmora Forge Wide Ring",
+          "price": 219000.0,
+          "images": [
+            "https://media.tiffany.com/is/image/tco/73903920_RG_MAIN1X1?hei=628&wid=628&fmt=webp",
+            "https://media.tiffany.com/is/image/tco/73903920_RG_SIO2X1?hei=1300&wid=1300&fmt=webp",
+            "https://media.tiffany.com/is/image/tco/73903920_RG_SIO2X2?hei=615&wid=615&fmt=webp",
+            "https://media.tiffany.com/is/image/tco/73903920_RG_ALT3X1?hei=615&wid=615&fmt=webp"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "ORD-2605224942",
+    "userId": "admin-uuid-001",
+    "date": "2026-05-22 16:25:11",
+    "createdAt": "2026-05-22 16:25:11",
+    "paidAt": "2026-05-22 16:42:51",
+    "paymentDate": "2026-05-22 16:42:51",
+    "recipientName": "Admin Velmora",
+    "firstName": "Admin",
+    "lastName": "Velmora",
+    "email": "admin@velmora.com",
+    "phone": 987654345,
+    "company": null,
+    "address": "Thon Bich",
+    "apartment": null,
+    "city": "Nam Dinh",
+    "country": "Vietnam",
+    "postalCode": null,
+    "shippingMethod": "free",
+    "shippingFee": 0.0,
+    "paymentMethod": "payos",
+    "paymentStatus": "Paid",
+    "status": "Chờ xác nhận",
+    "orderStatus": "Chờ xác nhận",
+    "discountCode": null,
+    "discountAmount": 0.0,
+    "total": 149000.0,
+    "totalAmount": 149000.0,
+    "estimatedDelivery": null,
+    "items": [
+      {
+        "id": 9,
+        "orderId": "ORD-2605224942",
+        "productId": 1,
+        "variantId": 2,
+        "quantity": 1,
+        "size": "6 (51mm)",
+        "priceAtPurchase": 149000.0,
+        "product": {
+          "id": 1,
+          "name": "Velmora T1 Narrow Ring",
+          "price": 149000.0,
+          "images": [
+            "https://media.tiffany.com/is/image/tco/72149513_RG_ALT3X1?hei=615&wid=615&fmt=webp"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "ORD-2605225295",
+    "userId": "admin-uuid-001",
+    "date": "2026-05-22 16:21:43",
+    "createdAt": "2026-05-22 16:21:43",
+    "paidAt": "2026-05-22 16:45:26",
+    "paymentDate": "2026-05-22 16:45:26",
+    "recipientName": "Admin Velmora",
+    "firstName": "Admin",
+    "lastName": "Velmora",
+    "email": "admin@velmora.com",
+    "phone": 987865454,
+    "company": null,
+    "address": "Thon Bich",
+    "apartment": null,
+    "city": "Ninh Binh",
+    "country": "Vietnam",
+    "postalCode": null,
+    "shippingMethod": "free",
+    "shippingFee": 0.0,
+    "paymentMethod": "payos",
+    "paymentStatus": "Pending",
+    "status": "Chờ xác nhận",
+    "orderStatus": "Chờ xác nhận",
+    "discountCode": null,
+    "discountAmount": 0.0,
+    "total": 169000.0,
+    "totalAmount": 169000.0,
+    "estimatedDelivery": null,
+    "items": [
+      {
+        "id": 8,
+        "orderId": "ORD-2605225295",
+        "productId": 2,
+        "variantId": 4,
+        "quantity": 1,
+        "size": "5 (49mm)",
+        "priceAtPurchase": 169000.0,
+        "product": {
+          "id": 2,
+          "name": "Velmora Knot Ring",
+          "price": 169000.0,
+          "images": [
+            "https://media.tiffany.com/is/image/tco/70153238_RG_ALT3X1?hei=615&wid=615&fmt=webp",
+            "https://media.tiffany.com/is/image/tco/70153238_RG_SIO2X1?hei=1300&wid=1300&fmt=webp"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "ORD-2605226007",
+    "userId": "d7662f9f-f41b-4ec0-8cbc-21018e5018fa",
+    "date": "2026-05-22 15:10:01",
+    "createdAt": "2026-05-22 15:10:01",
+    "paidAt": "2026-05-22 16:04:22",
+    "paymentDate": "2026-05-22 16:04:22",
+    "recipientName": "Trần Minh Nguyệt (TMN)",
+    "firstName": "Trần Minh Nguyệt",
+    "lastName": "(TMN)",
+    "email": "tranvankhoand1983@gmail.com",
+    "phone": 329385656,
+    "company": null,
+    "address": "Minh Tan",
+    "apartment": null,
+    "city": "Ninh Binh",
+    "country": "Vietnam",
+    "postalCode": null,
+    "shippingMethod": "free",
+    "shippingFee": 0.0,
+    "paymentMethod": "payos",
+    "paymentStatus": "Paid",
+    "status": "Chờ xác nhận",
+    "orderStatus": "Chờ xác nhận",
+    "discountCode": null,
+    "discountAmount": 0.0,
+    "total": 169000.0,
+    "totalAmount": 169000.0,
+    "estimatedDelivery": null,
+    "items": [
+      {
+        "id": 3,
+        "orderId": "ORD-2605226007",
+        "productId": 2,
+        "variantId": 4,
+        "quantity": 1,
+        "size": "5 (49mm)",
+        "priceAtPurchase": 169000.0,
+        "product": {
+          "id": 2,
+          "name": "Velmora Knot Ring",
+          "price": 169000.0,
+          "images": [
+            "https://media.tiffany.com/is/image/tco/70153238_RG_ALT3X1?hei=615&wid=615&fmt=webp",
+            "https://media.tiffany.com/is/image/tco/70153238_RG_SIO2X1?hei=1300&wid=1300&fmt=webp"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "ORD-2605226028",
+    "userId": "admin-uuid-001",
+    "date": "2026-05-22 16:11:08",
+    "createdAt": "2026-05-22 16:11:08",
+    "paidAt": null,
+    "paymentDate": null,
+    "recipientName": "Admin Velmora",
+    "firstName": "Admin",
+    "lastName": "Velmora",
+    "email": "admin@velmora.com",
+    "phone": 123456789,
+    "company": null,
+    "address": "123 Nguyen Trai",
+    "apartment": null,
+    "city": "Hanoi",
+    "country": "Vietnam",
+    "postalCode": 10000,
+    "shippingMethod": "free",
+    "shippingFee": 0.0,
+    "paymentMethod": "payos",
+    "paymentStatus": "Pending",
+    "status": "Chờ xác nhận",
+    "orderStatus": "Chờ xác nhận",
+    "discountCode": null,
+    "discountAmount": 0.0,
+    "total": 149000.0,
+    "totalAmount": 149000.0,
+    "estimatedDelivery": null,
+    "items": [
+      {
+        "id": 6,
+        "orderId": "ORD-2605226028",
+        "productId": 20,
+        "variantId": 13,
+        "quantity": 1,
+        "size": "5 (49mm)",
+        "priceAtPurchase": 149000.0,
+        "product": {
+          "id": 20,
+          "name": "Velmora Harmony Ring Band",
+          "price": 149000.0,
+          "images": [
+            "https://media.tiffany.com/is/image/tco/72149513_RG_ALT3X1?hei=615&wid=615&fmt=webp",
+            "https://media.tiffany.com/is/image/tco/72149513_RG_SIO2X1?hei=2000&wid=2000&fmt=webp",
+            "https://media.tiffany.com/is/image/tco/60147091_RG_MAIN1X1?hei=282&wid=282&fmt=webp",
+            "https://media.tiffany.com/is/image/tco/72149513_RG_ALT3X2?hei=615&wid=615&fmt=webp"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "ORD-2605228993",
+    "userId": "d7662f9f-f41b-4ec0-8cbc-21018e5018fa",
+    "date": "2026-05-22 16:07:02",
+    "createdAt": "2026-05-22 16:07:02",
+    "paidAt": null,
+    "paymentDate": null,
+    "recipientName": "Trần Minh Nguyệt (TMN)",
+    "firstName": "Trần Minh Nguyệt",
+    "lastName": "(TMN)",
+    "email": "tranvankhoand1983@gmail.com",
+    "phone": 329786565,
+    "company": null,
+    "address": "Thon Bich",
+    "apartment": null,
+    "city": "Ninh Binh",
+    "country": "Vietnam",
+    "postalCode": null,
+    "shippingMethod": "free",
+    "shippingFee": 0.0,
+    "paymentMethod": "payos",
+    "paymentStatus": "Pending",
+    "status": "Chờ xác nhận",
+    "orderStatus": "Chờ xác nhận",
+    "discountCode": null,
+    "discountAmount": 0.0,
+    "total": 149000.0,
+    "totalAmount": 149000.0,
+    "estimatedDelivery": null,
+    "items": [
+      {
+        "id": 5,
+        "orderId": "ORD-2605228993",
+        "productId": 1,
+        "variantId": 1,
+        "quantity": 1,
+        "size": "5 (49mm)",
+        "priceAtPurchase": 149000.0,
+        "product": {
+          "id": 1,
+          "name": "Velmora T1 Narrow Ring",
+          "price": 149000.0,
+          "images": [
+            "https://media.tiffany.com/is/image/tco/72149513_RG_ALT3X1?hei=615&wid=615&fmt=webp"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "ORD-5423",
+    "userId": "d7662f9f-f41b-4ec0-8cbc-21018e5018fa",
+    "date": "2026-04-20 08:44:16",
+    "createdAt": "2026-04-20 08:44:16",
+    "paidAt": null,
+    "paymentDate": null,
+    "recipientName": "None None",
+    "firstName": null,
+    "lastName": null,
+    "email": "tranvankhoand1983@gmail.com",
+    "phone": null,
+    "company": null,
+    "address": null,
+    "apartment": null,
+    "city": null,
+    "country": "Việt Nam",
+    "postalCode": null,
+    "shippingMethod": "free",
+    "shippingFee": 0.0,
+    "paymentMethod": null,
+    "paymentStatus": "Failed",
+    "status": "Hủy",
+    "orderStatus": "Hủy",
+    "discountCode": null,
+    "discountAmount": 0.0,
+    "total": 0.0,
+    "totalAmount": 0.0,
+    "estimatedDelivery": null,
+    "items": []
+  }
+]

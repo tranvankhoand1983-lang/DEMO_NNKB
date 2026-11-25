@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "userId": "admin-uuid-001",
+    "promotionId": 4,
+    "savedAt": "2026-04-20 15:20:35",
+    "isUsed": 0,
+    "usedAt": null
+  },
+  {
+    "id": 2,
+    "userId": "admin-uuid-001",
+    "promotionId": 5,
+    "savedAt": "2026-04-20 15:22:21",
+    "isUsed": 0,
+    "usedAt": null
+  },
+  {
+    "id": 3,
+    "userId": "admin-uuid-001",
+    "promotionId": 3,
+    "savedAt": "2026-04-20 22:33:24",
+    "isUsed": 0,
+    "usedAt": null
+  },
+  {
+    "id": 4,
+    "userId": "admin-uuid-001",
+    "promotionId": 2,
+    "savedAt": "2026-04-20 22:41:03",
+    "isUsed": 0,
+    "usedAt": null
+  },
+  {
+    "id": 5,
+    "userId": "d7662f9f-f41b-4ec0-8cbc-21018e5018fa",
+    "promotionId": 5,
+    "savedAt": "2026-04-22 14:31:09",
+    "isUsed": 0,
+    "usedAt": null
+  }
+]
